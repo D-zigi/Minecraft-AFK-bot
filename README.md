@@ -27,6 +27,3 @@
  - Chat messages Module
  - Auto reconnect
  - Supported server versions: `1.8 - 1.21.11`
- 
- ### License
- [MIT](https://github.com/urFate/Afk-Bot/blob/main/LICENSE)
