@@ -1,0 +1,44 @@
+{
+  "bot-account": {
+    "username": "Test",
+    "password": "",
+    "type": "microsoft"
+  },
+
+  "server": {
+    "ip": "eu19-free.falixserver.net",
+    "port": 29442,
+    "version": "1.21.11"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 5000,
+    "y": 80,
+    "z": 3035
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 15,
+
+      "messages": ["I'm AFK", ""]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 5000
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "afk-bot",
+  "version": "1.0.0",
+  "description": "Afk bot for minecraft servers.",
+  "main": "bot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon bot.ts",
+    "start": "node bot.ts"
+  },
+  "author": "D-zigi",
+  "dependencies": {
+    "minecraft-data": "^3.109.0",
+    "mineflayer": "^4.37.0",
+    "mineflayer-pathfinder": "^2.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
